@@ -1,0 +1,76 @@
+*{
+	padding:0;
+	margin:0;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Cutive', serif;
+	text-align: center;
+	padding: 5px 0px 10px 0px;
+}
+p, li, td, th{
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 18px;
+}
+body{
+	background: #69D2E7;
+}
+#title{
+	font-size: 30px;
+	text-align: center;
+	padding: 20px;
+	background: #F38630;
+	color: white;
+}
+#header_photo{
+	background: #F38630;
+}
+#container{
+	margin: 10px auto;
+	padding: 15px 50px;
+	width: 75%;
+}
+#face_and_address{
+	text-align: center;
+	margin: 15px;
+}
+#neighborhood_information{
+	background: white;
+	margin: 25px;
+	padding: 50px;
+	border: 3px solid #5BB7C9;
+}
+section#neighborhood_information p{
+	padding: 20px;
+}
+#neighborhood_hotspots{
+	background: white;
+	margin: 25px;
+	padding: 50px;
+	text-align: center;
+	border: 3px solid #5BB7C9;
+}
+section#neighborhood_hotspots li{
+	list-style: none;
+}
+#best_reads_2016{
+	background: white;
+	margin: 25px;
+	padding: 50px;
+	border: 3px solid #5BB7C9;
+}
+#best_reads_2016 table{
+	border: 3px solid #5BB7C9;
+	width: 100%;
+}
+section#best_reads_2016 table th{
+	background-color: #A7DBD8;
+}
+section#best_reads_2016 table td{
+	border: 1px solid #5BB7C9;
+	padding: 10px;
+	text-align: center;
+}
+li{
+	margin-bottom: 10px;
+}
+
